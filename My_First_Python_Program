@@ -1,0 +1,7 @@
+data = ['str1', 'str2', 'str3']
+
+print('begin')
+for i in range(data)
+    print(data[i])
+
+print('end')
